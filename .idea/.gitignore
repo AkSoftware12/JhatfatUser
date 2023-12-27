@@ -1,0 +1,46 @@
+
+# Windows specific
+Thumbs.db
+
+# Web specific
+.flutter-plugins
+web/packages/
+
+# Other
+/.metadata
+*.swp
+*.swo
+*.swn
+*.bak
+*.orig
+*.rej
+*.log
+*.tmp
+*.tmp.*
+*.sublime-workspace
+*.sublime-project
+*.sou
+*.sublime-project-save
+.svn/
+*.kate-swp
+.idea
+.project
+.cproject
+*.launch
+.project
+.settings/
+.history/
+.cache/
+.dartServer/
+test_config.json
+doc/api/
+.pub/
+/build/
+.hg/
+.packages
+.snapshot
+_tool/
+analysis_options.local
+.vscode/
+.env
+packages/flutter_tools/

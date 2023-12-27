@@ -1,0 +1,1 @@
+ /Users/jhatfat/Downloads/JFTUSERANDROID-main/JFTUSERANDROID-main/.dart_tool/flutter_build/df98302765287802453050b4733cc241/native_assets.yaml: 

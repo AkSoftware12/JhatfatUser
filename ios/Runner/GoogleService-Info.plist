@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>147590035506-2hb2sliq26pp32qc9q1i2s5gl2bp7tlt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.147590035506-2hb2sliq26pp32qc9q1i2s5gl2bp7tlt</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>147590035506-2slegfg152au1mrojkk9p6ls79g3kih8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD0VeDukc0Mbpzn48YPH1EkRMmc1rFziWw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>147590035506</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.maishainfotech.jhatfat</string>
+	<key>PROJECT_ID</key>
+	<string>jhatfat</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jhatfat.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:147590035506:ios:a6ee405567f0904aa8e42b</string>
+	<key>DATABASE_URL</key>
+	<string>https://jhatfat-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
