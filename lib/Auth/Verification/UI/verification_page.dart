@@ -245,7 +245,7 @@ class _OtpVerifyState extends State<OtpVerify> {
 
                   if (isLoading)
                     CircularProgressIndicator();
-                  /////hitService("123456", context);
+                hitService("123456", context);
                   _signInWithOTP();
                   // verifyOtp();
                   },
